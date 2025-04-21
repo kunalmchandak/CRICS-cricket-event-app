@@ -1,10 +1,3 @@
-Great! Since your outer repo contains both the **Flutter frontend** and a **Node.js backend** (hosted on Railway with MySQL), here’s a clean and professional `README.md` for your **outer repository**:
-
----
-
-### 📄 `README.md` for Outer Repository
-
-```markdown
 # 🏏 Cricket Event App
 
 This project is a complete cricket event management system built with:
