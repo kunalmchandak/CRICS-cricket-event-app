@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489701105156",
+    "project_id": "cricket-event",
+    "storage_bucket": "cricket-event.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489701105156:android:0a473335fda29879565f51",
+        "android_client_info": {
+          "package_name": "com.example.cricket_event_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgXVwmN1ZS1jO1GVPIFY3PcRkW4g63JAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
